@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+![alt text](https://github.com/brunoobatista/cszeidre_app/blob/main/Anima%C3%A7%C3%A3o.gif?raw=true)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
